@@ -197,7 +197,7 @@ main{
   }
 }
 .delivery__titulo {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   color: var(--primaryColor);
   font-weight: 800;
   margin: 1rem 0;
@@ -221,7 +221,7 @@ main{
 
 .delivery__subtitulo {
   margin: 1rem 0;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   font-weight: 800;
   color: var(--secundaryColor);
 }
@@ -331,7 +331,7 @@ main{
 .video__texto {
   font-weight: 800;
   margin-bottom: 1rem;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
 }
 
 
@@ -419,7 +419,7 @@ main{
 .mapa__titulo {
   color: var(--primaryColor);
   font-weight: 800;
-  font-size: 1.1rem;
+  font-size: 1.5rem;
 }
 
 @media screen and (min-width: 600px) {
