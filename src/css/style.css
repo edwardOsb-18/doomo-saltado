@@ -12,6 +12,8 @@
    scroll-snap-type: y mandatory; 
 }
 
+/*reset*/
+
 body {
   font-family: "Inter", sans-serif;
   margin: 0;
@@ -36,6 +38,10 @@ img {
   display: block;
 }
 
+
+/*seccion 1*/
+
+
 .uno {
   background-color: var(--primaryColor);
 }
@@ -51,6 +57,7 @@ img {
 .bienvenida {
   position: relative;
   padding: 1rem;
+  overflow: hidden;
 }
 .bienvenida__resumen {
   position: absolute;
