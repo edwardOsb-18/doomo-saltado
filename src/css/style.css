@@ -506,8 +506,16 @@ img {
   color: white;
   text-align: center;
   padding-bottom: 5rem;
-  scroll-snap-align: center
+ 
 }
+
+
+@media screen and (min-width: 600px) {
+    .antojos {
+       
+        scroll-snap-align: center
+      }
+  }
 
 
 .antojo__titulo {
